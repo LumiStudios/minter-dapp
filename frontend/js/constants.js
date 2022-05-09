@@ -1,5 +1,5 @@
-const contractAddress = "0xa2a6cbc1d5ce4c5bfe2044f67ca06318311877e5"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0xF72bF2c09FFb0977C70ACd41eC6b131a32f5723E"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the King Makazulu NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
