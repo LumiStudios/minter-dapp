@@ -65,7 +65,7 @@ const ROYALTY_SHARE = 1000; // Percentage of the token price that goes to the ro
 const ROYALTY_ADDRESS = "0x3d7045c772e819A81e439a9354abCf11d9741534"; // Address that will receive the royalty
 const BASE_URI = null; // only update if you want to manually set the base uri
 const PREREVEAL_TOKEN_URI = null; // only update if you want to manually set the prereveal token uri
-const PRESALE_WHITELISTED_ADDRESSES = ["0x3d7045c772e819A81e439a9354abCf11d9741534"]; // only update if you want to manually set the whitelisted addresses
+const PRESALE_WHITELISTED_ADDRESSES = ["0x3d7045c772e819A81e439a9354abCf11d9741534","0xd5F1a317A80cAe1294D8959cc78735f520D994C4"]; // only update if you want to manually set the whitelisted addresses
 
 // ** OPTIONAL **
 let CONTRACT_ADDRESS = "0x158e4cffA3cB0BB911B32Dd6fb487B457A7D2D2b"; // If you want to manually include it
